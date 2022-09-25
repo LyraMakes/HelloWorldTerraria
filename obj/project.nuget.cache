@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mn+Efxye+QBDmfw2SwEZv6vOexuIpw87zS1F+azwIxOqSP58+zXkRqsFnNzec/IDVTMmtEVNEo2gSI3gUcTMqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blyra\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:/Users/blyra\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
